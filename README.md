@@ -26,5 +26,6 @@ Ao rodar o `app.py`, o resultado será algo como:
 
 ---
 🚀 O código fonte está disponível na pasta [CONSUMO-ENERGIA].
+
 🪄 Atividade  desenvolvida para fins de aprendizado na disciplina Desenvolvimento de Sistemas 1 no curso Técnico Desenvolvimento de Sistemas Etec Jorge Street.
-![ETEC](https://img.shields.io/badge/ETEC-Jorge%20Street-red?style=for-the-badge&logo=education&logoColor=white)
+
