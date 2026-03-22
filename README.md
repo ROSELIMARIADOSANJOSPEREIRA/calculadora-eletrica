@@ -11,7 +11,10 @@ O programa solicita três informações ao usuário 😎👾:
 Com esses dados, o script calcula o consumo mensal em **kWh** e o valor em **Reais (R$)**, baseando-se em um mês de 30 dias e uma tarifa de R$ 0,75/kWh.
 
  Tecnologias Utilizadas
-🐍 Python 3**: Linguagem principal.
+ 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
+ Python 3: Linguagem principal.
 
 
  Exemplo de Execução
@@ -22,4 +25,6 @@ Ao rodar o `app.py`, o resultado será algo como:
 - **Resultado:** R$ 37,80/mês
 
 ---
+🚀 O código fonte está disponível na pasta [CONSUMO-ENERGIA].
 🪄 Atividade  desenvolvida para fins de aprendizado na disciplina Desenvolvimento de Sistemas 1 no curso Técnico Desenvolvimento de Sistemas Etec Jorge Street.
+![ETEC](https://img.shields.io/badge/ETEC-Jorge%20Street-red?style=for-the-badge&logo=education&logoColor=white)
